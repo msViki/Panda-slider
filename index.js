@@ -29,3 +29,4 @@ function updateSlider() {
 }
 
 updateSlider();
+let timerId = setInterval(showNextSlide, 3000)
